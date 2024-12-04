@@ -13,7 +13,7 @@
         }
         h1 {
             font-size: 2.5em;
-            color: #333;
+            color: red;
         }
         h2 {
             font-size: 2em;
