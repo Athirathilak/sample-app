@@ -34,6 +34,6 @@
 <body>
     <h1>Value Point Demo</h1>
     <h2>VM Migration</h2>
-    <p>VMware vSphere to OpenShift Container Platform Virtualization</p>
+    <p><span class="blue-text">VMware vSphere to</span> <span class="red-text">OpenShift Container Platform Virtualization</span></p>
 </body>
 </html>
