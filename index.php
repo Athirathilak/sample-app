@@ -23,6 +23,12 @@
             font-size: 1.5em;
             color: #555;
         }
+        .blue-text {
+            color: blue; /* Blue color for VMware vSphere to */
+        }
+        .red-text {
+            color: red; /* Red color for OpenShift Container Platform Virtualization */
+        }
     </style>
 </head>
 <body>
